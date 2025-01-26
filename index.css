@@ -1,0 +1,11 @@
+h1, main, footer{
+    text-align: center;
+}
+body{
+    background-color: plum;
+}
+nav{
+    word-spacing: 0.5cm;
+    text-align: center;
+}
+
